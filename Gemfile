@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'test-kitchen'
+gem 'json'
+gem 'httparty'
